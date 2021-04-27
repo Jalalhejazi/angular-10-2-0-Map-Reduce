@@ -1,4 +1,14 @@
-# Angular Basics
+
+## Please Learn TypeScript
+
+- [start with typescript](https://dev.azure.com/superusers-kursus/typescript)
+
+- [Map and Reduce](https://dev.azure.com/superusers-kursus/typescript/_git/learning-typescript?path=%2F03-javascript-features%2F15-combining-map-reduce-filter.ts)
+
+
+
+
+## Angular Basics
 
 
 [![Build Status](https://dev.azure.com/superusers-kursus/Angular-Basics/_apis/build/status/Jalalhejazi.angular-basics?branchName=master)](https://dev.azure.com/superusers-kursus/Angular-Basics/_build/latest?definitionId=142&branchName=master)
