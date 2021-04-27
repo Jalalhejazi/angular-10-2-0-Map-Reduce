@@ -3,6 +3,8 @@
 
 - [start with typescript](https://dev.azure.com/superusers-kursus/typescript)
 
+- [Map and Reduce](https://dev.azure.com/superusers-kursus/typescript/_git/learning-typescript?path=%2F03-javascript-features%2F15-combining-map-reduce-filter.ts)
+
 
 
 
