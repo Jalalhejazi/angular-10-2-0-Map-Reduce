@@ -16,7 +16,7 @@ export class AboutComponent implements OnInit {
   constructor( private service:ProductService) {}
 
    async ngOnInit() {
-    this.data = await this.service.GetData()
+    this.data = await this.service.getData()
   }
 
 }
