@@ -77,6 +77,10 @@ git stash
 git pull
 ```
 
+## cheatsheet docs
+
+- [cheatsheet](https://angular.io/guide/cheatsheet)
+
 ## How to generate Modules
 
 - kursus module
