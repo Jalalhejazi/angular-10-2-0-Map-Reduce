@@ -7,8 +7,12 @@
         <input  formControlName="navn" type="text" placeholder="angiv dit navn ..."    required>
     </p>
     <p>
-        <input type="email" formControlName="email" placeholder="angiv email" required>
+        <input  formControlName="email" type="email" placeholder="angiv email"         required>
     </p>
+    <p>
+        <input  formControlName="adresse" type="text" placeholder="angiv privat adresse" required>
+    </p>
+    
     
     <p>
         <button type="submit" [disabled]="!bookingForm.valid">Submit</button>
