@@ -1,8 +1,9 @@
 
-## Please Learn TypeScript
+## Please learn TypeScript before learning Angular
 
 - [start with typescript](https://dev.azure.com/superusers-kursus/typescript)
 
+In Angular we use map and reduce to manage data:
 - [Map and Reduce](https://dev.azure.com/superusers-kursus/typescript/_git/learning-typescript?path=%2F03-javascript-features%2F15-combining-map-reduce-filter.ts)
 
 
