@@ -40,19 +40,6 @@ npm run
 # start up command
 npm run start
 ```
-
-## How to work/edit/run online 
-
-- https://stackblitz.com/edit/angular-qna
-- https://stackblitz.com/edit/angular-registration-login-form
-- https://stackblitz.com/edit/reactive-programmering?file=index.ts
-
-Get inspiration:
-- [Follow Me](https://stackblitz.com/@Jalalhejazi)
-
-
-
-
 ## How to Clone first time
 
 ```powershell
@@ -67,26 +54,14 @@ npm install --silent
 npm run start
 ```
 
-## Weather Component
 
-API V1 weather (Odense)
-- https://superusers-kursus-angular-2020.azurewebsites.net/api/v1/weather
+## How to work/edit/run online 
 
-```
-cd angular-basics
-ng g c weather
+- https://stackblitz.com/edit/angular-qna
+- https://stackblitz.com/edit/angular-registration-login-form
+- https://stackblitz.com/edit/reactive-programmering?file=index.ts
+- https://stackblitz.com/edit/angular-autocomplete-validation-form
 
-```
-
-
-## How to get latest version 
-
-```powershell
-cd angular-basics
-
-git stash
-git pull
-```
 
 ## cheatsheet docs
 
@@ -99,8 +74,6 @@ git pull
 ng generate module kursus --module=app.module --route="kursus" --routingScope=Child 
 ```
 
-
-
 ## How to generate Component
 
 ```powershell
@@ -111,7 +84,6 @@ ng g c weather -d
 # UPDATE src/app/app.module.ts (766 bytes)
 
 ```
-
 
 ## How to generate Pipes
 
