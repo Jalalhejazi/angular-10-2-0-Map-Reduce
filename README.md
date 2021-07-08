@@ -67,6 +67,17 @@ npm install --silent
 npm run start
 ```
 
+## Weather Component
+
+API V1 weather (Odense)
+- https://superusers-kursus-angular-2020.azurewebsites.net/api/v1/weather
+
+```
+cd angular-basics
+ng g c weather
+
+```
+
 
 ## How to get latest version 
 
